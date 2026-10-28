@@ -1,0 +1,232 @@
+{
+  "generated": "2026-10-28",
+  "literacy": {
+    "title": "Literacy, age 10 and above",
+    "year": 2017,
+    "unit": "percent",
+    "denominator": "Population aged 10 years and above within each sex and residence group",
+    "method": "Census 2017, as reproduced in Statistical Year Book 2024",
+    "source": {
+      "document": "GB Statistical Year Book 2024",
+      "table": "3.9",
+      "pdfPage": 85,
+      "printedPage": 63,
+      "url": "https://www.pnd.gog.pk/pages/downloads",
+      "evidence": "Supplied PDF; official catalogue link is not a direct PDF link"
+    },
+    "rows": [
+      {
+        "area": "Gilgit-Baltistan",
+        "total": 61.66,
+        "male": 73.85,
+        "female": 48.77,
+        "transgender": 36.99
+      },
+      {
+        "area": "Rural",
+        "total": 58.55,
+        "male": 71.38,
+        "female": 45.37,
+        "transgender": 30.91
+      },
+      {
+        "area": "Urban",
+        "total": 75.08,
+        "male": 83.78,
+        "female": 64.65,
+        "transgender": 55.56
+      }
+    ],
+    "comparisonNote": "Compare sex/residence within 2017. Do not mix with MICS youth literacy or label as 2024/2025. No validated district literacy breakdown located. Small transgender census counts make subgroup percentages unstable."
+  },
+  "livingIndicators": [
+    {
+      "id": "internet",
+      "title": "Internet at home",
+      "year": "2024–25",
+      "unit": "percent",
+      "definition": "Households with access to internet at home by any device",
+      "denominator": "households",
+      "total": 60.7,
+      "urban": 88.5,
+      "rural": 54.8,
+      "poorestQuintile": 25.9,
+      "richestQuintile": 93.7,
+      "source": {
+        "document": "GB MICS 2024–25 Survey Findings Report",
+        "table": "LN.6.1",
+        "pdfPage": 239,
+        "printedPage": 221,
+        "url": "https://www.pnd.gog.pk/pages/downloads",
+        "evidence": "Supplied PDF; official catalogue link is not a direct PDF link"
+      },
+      "comparisonNote": "Within-survey point estimates; differences not significance-tested. District confidence intervals not extracted."
+    },
+    {
+      "id": "basicWater",
+      "title": "At least basic drinking water",
+      "year": "2024–25",
+      "unit": "percent",
+      "definition": "Household members using an improved drinking-water source with collection time at most 30 minutes round trip",
+      "denominator": "household members",
+      "total": 80.1,
+      "urban": 95.6,
+      "rural": 76.8,
+      "poorestQuintile": 50.4,
+      "richestQuintile": 96.4,
+      "source": {
+        "document": "GB MICS 2024–25 Survey Findings Report",
+        "table": "WS.1.2",
+        "pdfPage": 264,
+        "printedPage": 246,
+        "url": "https://www.pnd.gog.pk/pages/downloads",
+        "evidence": "Supplied PDF; official catalogue link is not a direct PDF link"
+      },
+      "comparisonNote": "Within-survey point estimates; differences not significance-tested. District confidence intervals not extracted."
+    },
+    {
+      "id": "basicSanitation",
+      "title": "At least basic sanitation",
+      "year": "2024–25",
+      "unit": "percent",
+      "definition": "Household members using improved sanitation facilities not shared with other households",
+      "denominator": "household members",
+      "total": 84.5,
+      "urban": 96.7,
+      "rural": 81.9,
+      "poorestQuintile": 49.9,
+      "richestQuintile": 99.5,
+      "source": {
+        "document": "GB MICS 2024–25 Survey Findings Report",
+        "table": "WS.3.7",
+        "pdfPage": 297,
+        "printedPage": 279,
+        "url": "https://www.pnd.gog.pk/pages/downloads",
+        "evidence": "Supplied PDF; official catalogue link is not a direct PDF link"
+      },
+      "comparisonNote": "Within-survey point estimates; differences not significance-tested. District confidence intervals not extracted."
+    }
+  ],
+  "districtProfiles": [
+    {
+      "district": "Ghizer",
+      "year": "2024–25",
+      "internet": 58.2,
+      "basicWater": 87.2,
+      "basicSanitation": 93.0
+    },
+    {
+      "district": "Gilgit",
+      "year": "2024–25",
+      "internet": 80.9,
+      "basicWater": 88.3,
+      "basicSanitation": 95.8
+    },
+    {
+      "district": "Hunza",
+      "year": "2024–25",
+      "internet": 68.8,
+      "basicWater": 97.2,
+      "basicSanitation": 99.2
+    },
+    {
+      "district": "Nagar",
+      "year": "2024–25",
+      "internet": 68.2,
+      "basicWater": 96.6,
+      "basicSanitation": 93.6
+    },
+    {
+      "district": "Astore",
+      "year": "2024–25",
+      "internet": 54.9,
+      "basicWater": 86.7,
+      "basicSanitation": 81.5
+    },
+    {
+      "district": "Diamer",
+      "year": "2024–25",
+      "internet": 42.8,
+      "basicWater": 42.5,
+      "basicSanitation": 56.7
+    },
+    {
+      "district": "Ghanche",
+      "year": "2024–25",
+      "internet": 46.0,
+      "basicWater": 93.1,
+      "basicSanitation": 92.8
+    },
+    {
+      "district": "Kharmang",
+      "year": "2024–25",
+      "internet": 45.5,
+      "basicWater": 89.3,
+      "basicSanitation": 75.8
+    },
+    {
+      "district": "Shigar",
+      "year": "2024–25",
+      "internet": 57.0,
+      "basicWater": 85.6,
+      "basicSanitation": 86.8
+    },
+    {
+      "district": "Skardu",
+      "year": "2024–25",
+      "internet": 68.3,
+      "basicWater": 91.6,
+      "basicSanitation": 91.6
+    }
+  ],
+  "cautions": [
+    "MICS values are weighted household-survey estimates, not census counts.",
+    "Ten survey districts reflect the report geography; do not split estimates into newly formed districts.",
+    "Basic drinking water means improved source with collection time at most 30 minutes round trip; it is not proof of uncontaminated or safely managed water.",
+    "Basic sanitation means improved facilities not shared with other households; it is not safely managed sanitation.",
+    "Internet access is a household measure, not percent of people online or connection quality.",
+    "Wealth quintiles are relative within-survey asset groups, not income bands or poverty rates.",
+    "No longitudinal living-condition comparison is supplied because definitions and reference periods require harmonization."
+  ],
+  "additionalIndicators": [
+    {
+      "id": "computer",
+      "title": "Household computer access",
+      "definition": "Households with a desktop, laptop, tablet or similar computer",
+      "year": "2024–25",
+      "unit": "percent",
+      "total": 15.1,
+      "urban": 31.9,
+      "rural": 11.5,
+      "source": {
+        "document": "GB MICS 2024–25 Survey Findings Report",
+        "table": "LN.6.1",
+        "pdfPage": 239,
+        "printedPage": 221,
+        "url": "https://www.pnd.gog.pk/pages/downloads",
+        "evidence": "Supplied PDF; official catalogue link is not a direct PDF link"
+      }
+    },
+    {
+      "id": "reading",
+      "title": "Foundational reading skills",
+      "definition": "Children aged 7–14 who successfully completed three foundational reading tasks in English or Urdu",
+      "year": "2024–25",
+      "unit": "percent",
+      "total": 26.2,
+      "male": 24.6,
+      "female": 27.9,
+      "urban": 39.3,
+      "rural": 23.7,
+      "source": {
+        "document": "GB MICS 2024–25 Survey Findings Report",
+        "table": "LN.4.1",
+        "pdfPage": 227,
+        "printedPage": 209,
+        "url": "https://www.pnd.gog.pk/pages/downloads",
+        "evidence": "Supplied PDF; official catalogue link is not a direct PDF link"
+      },
+      "caveat": "Test unavailable in home/instruction language for 27.6% of children; some could opt for available languages. This is not a literacy rate for all residents."
+    }
+  ]
+}
